@@ -1,2 +1,2 @@
 # eTram.github.io
-[eTram](https://eventbasedvision/eTram.github.io)
+[eTram](https://eTram.github.io)
